@@ -1,0 +1,15 @@
+{
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-03-26 17:04:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2022-03-26 16:51:18 +0800",
+      "plains": "2022-03-26 16:51:40 +0800"
+    },
+    "done": false
+  }
+}
